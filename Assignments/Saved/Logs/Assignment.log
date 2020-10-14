@@ -1034,3 +1034,119 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.14-03.36.47:837][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 361
 [2020.10.14-03.36.49:015][290]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 351
 [2020.10.14-03.36.51:597][347]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 341
+[2020.10.14-03.37.01:475][548]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 331
+[2020.10.14-03.37.04:541][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 321
+[2020.10.14-03.37.05:615][640]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 311
+[2020.10.14-03.37.08:416][704]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 301
+[2020.10.14-03.37.16:827][914]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 291
+[2020.10.14-03.37.17:154][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 281
+[2020.10.14-03.37.29:403][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 271
+[2020.10.14-03.37.31:864][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 261
+[2020.10.14-03.37.31:904][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 251
+[2020.10.14-03.37.32:526][243]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 241
+[2020.10.14-03.37.38:073][386]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.10.14-03.37.38:873][387]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.10.14-03.37.39:250][388]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.10.14-03.37.39:332][389]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.10.14-03.37.39:423][390]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.10.14-03.37.39:469][390]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 289
+[2020.10.14-03.37.39:765][393]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.10.14-03.37.39:957][394]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2020.10.14-03.37.42:709][422]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 370
+[2020.10.14-03.37.48:809][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 360
+[2020.10.14-03.37.49:648][568]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 350
+[2020.10.14-03.37.50:217][585]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 340
+[2020.10.14-03.37.53:326][670]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 330
+[2020.10.14-03.37.58:316][803]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 320
+[2020.10.14-03.38.01:398][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 310
+[2020.10.14-03.38.06:078][993]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 300
+[2020.10.14-03.38.07:411][ 29]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 290
+[2020.10.14-03.38.09:148][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 280
+[2020.10.14-03.38.11:947][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 270
+[2020.10.14-03.38.14:106][210]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 260
+[2020.10.14-03.38.20:739][387]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 250
+[2020.10.14-03.38.22:781][421]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 240
+[2020.10.14-03.38.25:442][493]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 230
+[2020.10.14-03.38.26:293][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2020.10.14-03.38.30:436][627]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 210
+[2020.10.14-03.38.30:916][640]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2020.10.14-03.38.39:974][879]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 190
+[2020.10.14-03.38.40:352][889]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 180
+[2020.10.14-03.38.42:206][941]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2020.10.14-03.38.42:979][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2020.10.14-03.38.43:696][967]LogStaticMesh: Building static mesh SM_TreeMerge_3...
+[2020.10.14-03.38.44:932][967]LogStaticMesh: Built static mesh [1.24s] /Game/SoulCave/Environment/Meshes/Merged/SM_TreeMerge_3.SM_TreeMerge_3
+[2020.10.14-03.38.45:069][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.14-03.38.45:587][967]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 150
+[2020.10.14-03.38.46:238][967]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.38.46:374][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.10.14-03.38.46:419][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.14-03.38.46:460][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.14-03.38.47:099][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 140
+[2020.10.14-03.38.48:349][  8]LogStaticMesh: Building static mesh SM_TreeMerge_2...
+[2020.10.14-03.38.49:415][  8]LogStaticMesh: Built static mesh [1.07s] /Game/SoulCave/Environment/Meshes/Merged/SM_TreeMerge_2.SM_TreeMerge_2
+[2020.10.14-03.38.49:536][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.14-03.38.50:212][  8]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 130
+[2020.10.14-03.38.50:647][  8]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.38.50:779][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.10.14-03.38.50:826][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.10.14-03.38.50:862][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.14-03.38.50:962][ 10]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 120
+[2020.10.14-03.38.51:851][ 36]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 110
+[2020.10.14-03.38.52:551][ 41]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 100
+[2020.10.14-03.38.52:551][ 41]LogStaticMesh: Building static mesh SM_TreeMerge_1...
+[2020.10.14-03.38.54:355][ 41]LogStaticMesh: Built static mesh [1.80s] /Game/SoulCave/Environment/Meshes/Merged/SM_TreeMerge_1.SM_TreeMerge_1
+[2020.10.14-03.38.54:505][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.10.14-03.38.54:940][ 41]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 90
+[2020.10.14-03.38.55:690][ 41]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.38.55:821][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.10.14-03.38.55:868][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.10.14-03.38.55:908][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.10.14-03.38.56:518][ 59]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2020.10.14-03.38.58:166][ 92]LogStaticMesh: Building static mesh SM_TreeMerge_4...
+[2020.10.14-03.38.59:613][ 92]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2020.10.14-03.38.59:613][ 92]LogStaticMesh: Built static mesh [1.45s] /Game/SoulCave/Environment/Meshes/Merged/SM_TreeMerge_4.SM_TreeMerge_4
+[2020.10.14-03.38.59:747][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.10.14-03.39.00:368][ 92]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2020.10.14-03.39.00:532][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.10.14-03.39.01:039][ 92]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.39.01:173][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.10.14-03.39.01:218][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.10.14-03.39.01:258][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.10.14-03.39.01:509][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.10.14-03.39.06:427][230]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.10.14-03.39.08:341][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.10.14-03.39.10:452][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.10.14-03.39.11:753][377]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.14-03.39.12:847][408]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.10.14-03.39.14:717][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.10.14-03.39.16:380][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.14-03.39.16:963][518]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.10.14-03.39.17:402][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.14-03.39.18:169][538]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rock_Pillar01REDO_2...
+[2020.10.14-03.39.19:175][538]LogStaticMesh: Built static mesh [1.01s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rock_Pillar01REDO_2.SM_MergedMesh_Cave_Rock_Pillar01REDO_2
+[2020.10.14-03.39.19:245][538]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rock_Pillar01REDO_1...
+[2020.10.14-03.39.19:275][538]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rock_Pillar01REDO_1.SM_MergedMesh_Cave_Rock_Pillar01REDO_1
+[2020.10.14-03.39.19:328][538]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rock_Pillar01REDO_0...
+[2020.10.14-03.39.19:369][538]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rock_Pillar01REDO_0.SM_MergedMesh_Cave_Rock_Pillar01REDO_0
+[2020.10.14-03.39.19:412][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.10.14-03.39.20:685][538]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.39.20:787][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.10.14-03.39.20:810][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.10.14-03.39.20:836][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.14-03.39.20:868][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.14-03.39.20:891][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.14-03.39.27:075][749]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rock_Pillar03a_3...
+[2020.10.14-03.39.27:559][749]LogStaticMesh: Built static mesh [0.49s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rock_Pillar03a_3.SM_MergedMesh_Cave_Rock_Pillar03a_3
+[2020.10.14-03.39.27:714][749]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rock_Pillar03a_0...
+[2020.10.14-03.39.28:286][749]LogStaticMesh: Built static mesh [0.57s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rock_Pillar03a_0.SM_MergedMesh_Cave_Rock_Pillar03a_0
+[2020.10.14-03.39.28:499][749]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rock_Pillar01REDO_120...
+[2020.10.14-03.39.29:399][749]LogStaticMesh: Built static mesh [0.90s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rock_Pillar01REDO_120.SM_MergedMesh_Cave_Rock_Pillar01REDO_120
+[2020.10.14-03.39.29:453][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.10.14-03.39.31:116][749]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.39.31:257][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.14-03.39.31:291][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.10.14-03.39.31:327][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.10.14-03.39.31:366][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.14-03.39.31:399][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.10.14-03.39.46:283][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms

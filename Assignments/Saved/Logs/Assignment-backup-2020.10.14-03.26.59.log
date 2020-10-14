@@ -1,0 +1,1382 @@
+﻿Log file open, 10/13/20 23:18:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Assignment
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.158510
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Engine.ini]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Engine.ini]
+[2020.10.14-03.18.57:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Engine.ini]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Engine.ini]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.14-03.18.57:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Engine.ini]
+[2020.10.14-03.18.57:088][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Engine.ini]
+[2020.10.14-03.18.57:092][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.14-03.18.57:093][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.14-03.18.57:094][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.14-03.18.57:094][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.14-03.18.57:094][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.14-03.18.57:098][  0]LogHAL: Display: Platform has ~ 8 GB [8461193216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.14-03.18.57:098][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.14-03.18.57:099][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.14-03.18.57:099][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.14-03.18.57:100][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Config/Windows/Engine.ini]
+[2020.10.14-03.18.57:101][  0]LogInit: Computer: LAPTOP-GP953MF5
+[2020.10.14-03.18.57:101][  0]LogInit: User: Strawberry
+[2020.10.14-03.18.57:101][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.14-03.18.57:101][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.14-03.18.57:101][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.10.14-03.18.57:101][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.14-03.18.57:101][  0]LogMemory: Process Physical Memory: 103.87 MB used, 103.88 MB peak
+[2020.10.14-03.18.57:101][  0]LogMemory: Process Virtual Memory: 100.88 MB used, 100.88 MB peak
+[2020.10.14-03.18.57:101][  0]LogMemory: Physical Memory: 6051.10 MB used,  2018.12 MB free, 8069.22 MB total
+[2020.10.14-03.18.57:101][  0]LogMemory: Virtual Memory: 4669.10 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.10.14-03.18.57:107][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.14-03.18.57:149][  0]LogInit: Using OS detected language (en-US).
+[2020.10.14-03.18.57:149][  0]LogInit: Using OS detected locale (en-CA).
+[2020.10.14-03.18.57:150][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.14-03.18.57:333][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.14-03.18.57:400][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.14-03.18.57:400][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.14-03.18.57:634][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.14-03.18.57:634][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.14-03.18.57:709][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.10.14-03.18.57:709][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.10.14-03.18.57:716][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.14-03.18.57:716][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.14-03.18.57:716][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.14-03.18.57:725][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.14-03.18.57:725][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.14-03.18.57:725][  0]LogWindows: EnumDisplayDevices:
+[2020.10.14-03.18.57:726][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.10.14-03.18.57:727][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.10.14-03.18.57:728][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.10.14-03.18.57:728][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.10.14-03.18.57:728][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.10.14-03.18.57:728][  0]LogD3D11RHI:   Driver Version: 23.20.16.5038 (internal:23.20.16.5038, unified:23.20.16.5038)
+[2020.10.14-03.18.57:728][  0]LogD3D11RHI:      Driver Date: 4-18-2018
+[2020.10.14-03.18.57:728][  0]LogRHI: Texture pool is 1501 MB (70% of 2145 MB)
+[2020.10.14-03.18.57:794][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.14-03.18.57:808][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.10.14-03.18.58:361][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.10.14-03.18.58:372][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.10.14-03.18.58:384][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.10.14-03.18.58:398][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.10.14-03.18.58:418][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.10.14-03.18.58:438][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.10.14-03.18.58:457][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.14-03.18.58:477][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.10.14-03.18.58:487][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.10.14-03.18.58:544][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.10.14-03.18.58:550][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.10.14-03.18.58:577][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.10.14-03.18.58:577][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.10.14-03.18.58:598][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.10.14-03.18.58:598][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.10.14-03.18.58:607][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.10.14-03.18.58:617][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.14-03.18.58:629][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.10.14-03.18.58:643][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.10.14-03.18.58:678][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.10.14-03.18.58:678][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.10.14-03.18.58:679][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.14-03.18.58:692][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.14-03.18.58:825][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Intermediate/Shaders/WorkingDirectory/19188/).
+[2020.10.14-03.18.58:825][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Strawberry/AppData/Local/Temp/UnrealShaderWorkingDir/593D5724455E836FD87EEA9A31BC2FC1/'.
+[2020.10.14-03.18.58:832][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.14-03.18.58:833][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.14-03.18.58:833][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.14-03.18.59:840][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.14-03.18.59:930][  0]LogDerivedDataCache: Loaded boot cache 0.09s 73MB C:/Users/Strawberry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.10.14-03.18.59:930][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Strawberry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.10.14-03.18.59:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.14-03.18.59:931][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.14-03.18.59:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.14-03.18.59:931][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.14-03.18.59:947][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.14-03.18.59:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.14-03.18.59:947][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.14-03.18.59:949][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Strawberry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.14-03.18.59:949][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.14-03.18.59:950][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.14-03.18.59:995][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.14-03.18.59:999][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.14-03.19.00:003][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.14-03.19.00:130][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2020.10.14-03.19.00:633][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.14-03.19.00:893][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.14-03.19.00:893][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.14-03.19.00:893][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.14-03.19.00:893][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.14-03.19.00:893][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.14-03.19.00:913][  0]LogNetVersion: Assignment 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 443450266)
+[2020.10.14-03.19.01:768][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.104487 seconds
+[2020.10.14-03.19.01:781][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.10.14-03.19.01:781][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.10.14-03.19.01:781][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.14-03.19.03:101][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.14-03.19.03:105][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.14-03.19.03:199][  0]SourceControl: Source control is disabled
+[2020.10.14-03.19.03:199][  0]SourceControl: Source control is disabled
+[2020.10.14-03.19.03:203][  0]SourceControl: Source control is disabled
+[2020.10.14-03.19.03:206][  0]SourceControl: Source control is disabled
+[2020.10.14-03.19.03:367][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.14-03.19.03:585][  0]LogOcInput: OculusInput pre-init called
+[2020.10.14-03.19.03:598][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.14-03.19.03:598][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.14-03.19.03:710][  0]LogEngine: Initializing Engine...
+[2020.10.14-03.19.03:713][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.14-03.19.03:715][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.14-03.19.03:985][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.14-03.19.04:033][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.14-03.19.04:229][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.14-03.19.04:275][  0]LogInit: FAudioDevice initialized.
+[2020.10.14-03.19.04:275][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.14-03.19.04:475][  0]LogDerivedDataCache: Saved boot cache 0.20s 73MB C:/Users/Strawberry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.10.14-03.19.04:487][  0]LogInit: Texture streaming: Enabled
+[2020.10.14-03.19.04:529][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.14-03.19.04:529][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.14-03.19.04:538][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.14-03.19.04:632][  0]LogInit: Transaction tracking system initialized
+[2020.10.14-03.19.04:699][  0]BlueprintLog: New page: Editor Load
+[2020.10.14-03.19.04:872][  0]LocalizationService: Localization service is disabled
+[2020.10.14-03.19.04:979][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.10.14-03.19.04:980][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.10.14-03.19.04:980][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.10.14-03.19.05:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/' took 0.02s
+[2020.10.14-03.19.05:320][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.14-03.19.05:321][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.14-03.19.05:702][  0]SourceControl: Source control is disabled
+[2020.10.14-03.19.05:703][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.14-03.19.05:716][  0]LightingResults: New page: Lighting Build
+[2020.10.14-03.19.05:723][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-03.19.05:724][  0]MapCheck: New page: Map Check
+[2020.10.14-03.19.05:724][  0]LightingResults: New page: Lighting Build
+[2020.10.14-03.19.05:749][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.10.14-03.19.06:405][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.14-03.19.06:414][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.14-03.19.06:457][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.10.14-03.19.06:457][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.14-03.19.06:458][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.369ms to complete.
+[2020.10.14-03.19.06:458][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.755
+[2020.10.14-03.19.06:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-03.19.06:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-03.19.06:655][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-03.19.06:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-03.19.06:693][  0]LogCollectionManager: Loaded 0 collections in 0.004988 seconds
+[2020.10.14-03.19.06:706][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Saved/Collections/' took 0.00s
+[2020.10.14-03.19.06:706][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/Developers/Strawberry/Collections/' took 0.00s
+[2020.10.14-03.19.06:706][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/Collections/' took 0.00s
+[2020.10.14-03.19.06:706][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.10.14-03.19.06:717][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2863 classes and 680 folders.
+[2020.10.14-03.19.06:729][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.14-03.19.06:885][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.14-03.19.06:898][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.10.14-03.19.07:023][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.14-03.19.07:026][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.14-03.19.07:035][  0]LogSlate: Took 0.001005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.14-03.19.07:272][  0]LogRenderer: Reallocating scene render targets to support 836x464 Format 10 NumSamples 1 (Frame:1).
+[2020.10.14-03.19.07:842][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.14-03.19.07:842][  0]LogLoad: (Engine Initialization) Total time: 12.97 seconds
+[2020.10.14-03.19.07:842][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.14-03.19.07:919][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.14-03.19.07:930][  0]LogSlate: Took 0.000976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.14-03.19.08:658][  5]LogAssetRegistry: Asset discovery search completed in 8.5289 seconds
+[2020.10.14-03.19.08:667][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2020.10.14-03.19.08:667][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2020.10.14-03.19.09:293][  7]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.14-03.19.13:802][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.14-03.19.15:013][ 23]LogAIModule: Creating AISystem for world JourneyToTheCave
+[2020.10.14-03.19.15:132][ 23]LogAssetEditorManager: Opening Asset editor for World /Game/JourneyToTheCave.JourneyToTheCave
+[2020.10.14-03.19.15:176][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.10.14-03.19.15:183][ 23]Cmd: MAP LOAD FILE="../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/JourneyToTheCave.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.14-03.19.15:183][ 23]LightingResults: New page: Lighting Build
+[2020.10.14-03.19.15:184][ 23]LoadErrors: New page: Loading map: JourneyToTheCave.umap
+[2020.10.14-03.19.15:190][ 23]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-03.19.15:191][ 23]MapCheck: New page: Map Check
+[2020.10.14-03.19.15:191][ 23]LightingResults: New page: Lighting Build
+[2020.10.14-03.19.15:237][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.10.14-03.19.15:424][ 23]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.14-03.19.15:465][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.10.14-03.19.15:556][ 23]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.14-03.19.15:557][ 23]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.364ms to complete.
+[2020.10.14-03.19.15:557][ 23]LogFileHelpers: Loading map 'JourneyToTheCave' took 0.381
+[2020.10.14-03.19.22:494][258]MapCheck: New page: Map Check
+[2020.10.14-03.19.22:546][258]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.14-03.19.22:546][258]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.14-03.19.22:725][258]LogWorld: UWorld::CleanupWorld for JourneyToTheCave, bSessionEnded=true, bCleanupResources=false
+[2020.10.14-03.19.22:790][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.10.14-03.19.22:855][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.22:883][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.10.14-03.19.22:883][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.14-03.19.22:883][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.22:896][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.22:909][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.22:921][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.22:940][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.10.14-03.19.22:940][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.10.14-03.19.22:940][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.22:954][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.22:965][258]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.14-03.19.24:611][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.10.14-03.19.24:611][258]TextureStreamingBuild: Display: Compiling optional shaders took 1.779 seconds.
+[2020.10.14-03.19.24:635][258]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2020.10.14-03.19.24:672][258]TextureStreamingBuild: Display: Build Texture Streaming took 0.035 seconds.
+[2020.10.14-03.19.24:701][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.14-03.19.24:707][258]LightingResults: New page: Lighting Build - Oct 13, 2020, 7:19:24 PM
+[2020.10.14-03.19.24:808][258]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.14-03.19.25:051][258]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.14-03.19.25:141][258]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.14-03.19.25:711][258]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.14-03.19.25:711][258]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19188
+[2020.10.14-03.19.32:870][258]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.10.14-03.19.32:872][258]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.14-03.19.32:872][258]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.14-03.19.32:872][258]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.14-03.19.32:872][258]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.14-03.19.32:872][258]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.14-03.19.33:240][258]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.14-03.19.33:240][258]MapCheck: New page: JourneyToTheCave - Oct 13, 2020, 7:19:33 PM
+[2020.10.14-03.19.33:251][258]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10.45ms to complete.
+[2020.10.14-03.19.33:253][258]LogEditorBuildUtils: Build time 0:10
+[2020.10.14-03.19.33:459][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.10.14-03.19.41:188][476]Job is a success!
+[2020.10.14-03.19.41:434][477]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.046s
+[2020.10.14-03.19.41:434][477]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.14-03.19.41:434][477]LogVolumetricLightmapImport:      BrickData 490x5x5 = 0.4Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.10.14-03.19.41:434][477]LogVolumetricLightmapImport:      Bricks at Level
+[2020.10.14-03.19.41:434][477]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2020.10.14-03.19.41:434][477]LogVolumetricLightmapImport:          1: 4.1% covering 6.3% of volume
+[2020.10.14-03.19.41:435][477]LogVolumetricLightmapImport:          2: 94.9% covering 2.3% of volume
+[2020.10.14-03.19.41:814][477]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.10.14-03.19.41:815][477]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.10.14-03.19.41:815][477]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.10.14-03.19.41:815][477]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.10.14-03.19.41:882][477]Lightmass on LAPTOP-GP953MF5: 7.26 sec total, 636 ms importing, 382 ms setup, 1.93 sec photons, 4.25 sec processing, 0 ms extra exporting [35/35 mappings]. Threads: 29.7 sec total, 12.9 sec processing.
+[2020.10.14-03.19.41:884][477]LogStaticLightingSystem: JourneyToTheCave_BuiltData storing lightmap data for 35 meshes in 2 LightmapResourceClusters (17.5 Meshes per cluster).
+[2020.10.14-03.19.41:923][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.10.14-03.19.41:934][477]LogStaticLightingSystem: Illumination: 17.1 sec (323 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.10.14-03.19.41:934][477]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.10.14-03.19.41:934][477]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.10.14-03.19.42:890][477]DumpUnbuiltLightIteractions
+[2020.10.14-03.19.42:890][477]Lights with unbuilt interactions: 0
+[2020.10.14-03.19.42:890][477]
+[2020.10.14-03.19.42:891][477]Primitives with unbuilt interactions: 0
+[2020.10.14-03.19.43:056][478]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.14-03.19.43:056][478]MapCheck: New page: JourneyToTheCave - Oct 13, 2020, 7:19:43 PM
+[2020.10.14-03.19.43:057][478]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.623ms to complete.
+[2020.10.14-03.19.47:839][645]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Light_Source_Blueprint.Light_Source_Blueprint
+[2020.10.14-03.19.48:396][645]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.10.14-03.19.49:410][645]LogSlate: Took 0.001135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.14-03.19.55:049][879]LogSlate: Window 'Light_Source_Blueprint' being destroyed
+[2020.10.14-03.21.55:949][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.14-03.22.03:722][355]LogRenderer: Reallocating scene render targets to support 864x464 Format 10 NumSamples 1 (Frame:3876).
+[2020.10.14-03.22.04:058][356]LogRenderer: Reallocating scene render targets to support 876x464 Format 10 NumSamples 1 (Frame:3878).
+[2020.10.14-03.22.45:895][760]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.14-03.22.47:033][760]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2020.10.14-03.22.47:065][760]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.14-03.22.48:112][760]LogAIModule: Creating AISystem for world StarterMap
+[2020.10.14-03.22.48:472][760]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2020.10.14-03.22.48:472][760]LogObjectTools: Currently 2 active worlds: /Game/JourneyToTheCave.JourneyToTheCave, /Engine/Transient.World_0
+[2020.10.14-03.22.48:512][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.10.14-03.23.50:292][760]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.23.50:358][761]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1D73754C-4E73-6E16-C10C-D8BD990E7E30}
+[2020.10.14-03.23.50:358][761]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C276A9BB-42A9-6E8B-6502-7695ABEAF8E9}
+[2020.10.14-03.23.58:989][109]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.14-03.23.59:071][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt03...
+[2020.10.14-03.23.59:112][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 62572 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt03.Footstep_Dirt03.
+[2020.10.14-03.23.59:112][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt04...
+[2020.10.14-03.23.59:123][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 63358 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt04.Footstep_Dirt04.
+[2020.10.14-03.23.59:123][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt02...
+[2020.10.14-03.23.59:133][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 56468 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt02.Footstep_Dirt02.
+[2020.10.14-03.23.59:133][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt01...
+[2020.10.14-03.23.59:147][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 58852 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt01.Footstep_Dirt01.
+[2020.10.14-03.23.59:148][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt07...
+[2020.10.14-03.23.59:162][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 62342 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt07.Footstep_Dirt07.
+[2020.10.14-03.23.59:163][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt08...
+[2020.10.14-03.23.59:175][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 62880 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt08.Footstep_Dirt08.
+[2020.10.14-03.23.59:176][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt05...
+[2020.10.14-03.23.59:186][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 61502 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt05.Footstep_Dirt05.
+[2020.10.14-03.23.59:187][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt06...
+[2020.10.14-03.23.59:197][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 60926 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt06.Footstep_Dirt06.
+[2020.10.14-03.23.59:265][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder04...
+[2020.10.14-03.23.59:284][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 77968 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder04.Footstep_WoodLadder04.
+[2020.10.14-03.23.59:285][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder05...
+[2020.10.14-03.23.59:302][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 88200 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder05.Footstep_WoodLadder05.
+[2020.10.14-03.23.59:303][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder06...
+[2020.10.14-03.23.59:321][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 92610 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder06.Footstep_WoodLadder06.
+[2020.10.14-03.23.59:322][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder07...
+[2020.10.14-03.23.59:338][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85260 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder07.Footstep_WoodLadder07.
+[2020.10.14-03.23.59:339][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder03...
+[2020.10.14-03.23.59:355][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 73558 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder03.Footstep_WoodLadder03.
+[2020.10.14-03.23.59:356][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder02...
+[2020.10.14-03.23.59:374][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 70972 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder02.Footstep_WoodLadder02.
+[2020.10.14-03.23.59:374][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder01...
+[2020.10.14-03.23.59:389][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 65562 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder01.Footstep_WoodLadder01.
+[2020.10.14-03.23.59:400][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave CaveWind13...
+[2020.10.14-03.23.59:703][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3643264 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13.CaveWind13.
+[2020.10.14-03.23.59:721][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterDrips02...
+[2020.10.14-03.23.59:804][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 857036 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02.WaterDrips02.
+[2020.10.14-03.23.59:864][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterDrips04...
+[2020.10.14-03.24.00:009][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1398080 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04.WaterDrips04.
+[2020.10.14-03.24.00:017][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterDrips05...
+[2020.10.14-03.24.00:163][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1454484 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05.WaterDrips05.
+[2020.10.14-03.24.00:174][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Waterfall04...
+[2020.10.14-03.24.00:231][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 599472 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04.Waterfall04.
+[2020.10.14-03.24.00:240][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Waterfall05...
+[2020.10.14-03.24.00:313][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 785518 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05.Waterfall05.
+[2020.10.14-03.24.00:323][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Waterfall06...
+[2020.10.14-03.24.00:386][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 678162 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06.Waterfall06.
+[2020.10.14-03.24.00:397][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Waterfall07...
+[2020.10.14-03.24.00:457][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 622840 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07.Waterfall07.
+[2020.10.14-03.24.00:468][109]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterFountain03...
+[2020.10.14-03.24.00:545][109]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 802810 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03.WaterFountain03.
+[2020.10.14-03.24.00:570][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.14-03.24.11:646][109]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.14-03.24.20:455][109]LogUObjectGlobals: Force Deleting 26 Package(s):
+	Asset Name: /Game/SoulCave/Sound/Cue/Footstep_Dirt_Cue.Footstep_Dirt_Cue
+	Asset Name: /Game/SoulCave/Sound/Cue/Footstep_WoodLadder_Cue.Footstep_WoodLadder_Cue
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt01.Footstep_Dirt01
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt02.Footstep_Dirt02
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt03.Footstep_Dirt03
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt04.Footstep_Dirt04
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt05.Footstep_Dirt05
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt06.Footstep_Dirt06
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt07.Footstep_Dirt07
+	Asset Name: /Game/SoulCave/Sound/Wav/Footstep_Dirt08.Footstep_Dirt08
+[2020.10.14-03.24.29:533][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.10.14-03.24.29:564][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.14-03.24.29:592][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.14-03.24.29:620][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.10.14-03.24.29:649][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.14-03.24.29:676][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.10.14-03.24.29:707][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.10.14-03.24.29:738][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.10.14-03.24.29:765][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.14-03.24.29:795][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.10.14-03.24.29:829][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.10.14-03.24.29:865][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.10.14-03.24.29:902][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.10.14-03.24.29:927][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.14-03.24.29:958][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.14-03.24.29:990][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.10.14-03.24.30:026][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.10.14-03.24.30:073][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.14-03.24.30:109][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.10.14-03.24.30:141][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.14-03.24.30:175][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.14-03.24.30:207][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.10.14-03.24.30:236][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.10.14-03.24.30:261][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.14-03.24.30:290][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.10.14-03.24.30:328][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.14-03.24.30:363][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.10.14-03.24.30:388][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.10.14-03.24.40:955][458]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.14-03.24.41:001][458]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2020.10.14-03.24.41:002][458]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.10.14-03.24.41:003][458]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.10.14-03.24.41:003][458]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.10.14-03.24.41:003][458]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.10.14-03.24.41:003][458]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2020.10.14-03.24.41:004][458]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2020.10.14-03.24.45:737][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:737][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:737][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:738][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:738][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:738][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:738][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:739][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:739][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:739][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:740][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:740][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:740][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:740][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:741][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:741][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:741][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:741][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:745][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:745][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:745][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:746][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:746][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:746][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:746][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:747][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:747][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:747][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:747][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:748][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:748][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:748][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:748][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:749][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:749][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:749][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:769][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:770][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:770][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:770][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:770][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:771][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:771][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:771][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:771][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:772][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:772][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:772][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:772][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:773][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:773][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:773][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:774][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:774][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:774][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:774][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:775][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:775][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:775][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:775][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:776][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:776][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:776][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:776][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:777][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:777][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:777][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:777][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:778][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:778][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:778][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:778][458]LogLinker: Warning: Failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:960][458]LogTexture: Display: Building textures: T_DropSubUV_A (AutoDXT, 512X512)
+[2020.10.14-03.24.45:960][458]LogTexture: Display: Building textures: T_DropSubUV_N (BC5, 512X512)
+[2020.10.14-03.24.45:960][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.24.45:960][458]LogTexture: Display: Building textures: T_CubeNearEntrance (RGBA16F, 1024X1024)
+[2020.10.14-03.24.45:960][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:960][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13.CaveWind13 Referenced by CaveWind13_2
+[2020.10.14-03.24.45:961][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:962][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:962][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13.CaveWind13 Referenced by CaveWind14
+[2020.10.14-03.24.45:962][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/CaveWind13': Can't find file.
+[2020.10.14-03.24.45:963][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:963][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02.WaterDrips02 Referenced by WaterDrips02_3
+[2020.10.14-03.24.45:963][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips02': Can't find file.
+[2020.10.14-03.24.45:964][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:964][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04.WaterDrips04 Referenced by WaterDrips04_6
+[2020.10.14-03.24.45:964][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:964][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:965][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04.WaterDrips04 Referenced by WaterDrips5
+[2020.10.14-03.24.45:965][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:965][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:965][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04.WaterDrips04 Referenced by WaterDrips6
+[2020.10.14-03.24.45:966][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips04': Can't find file.
+[2020.10.14-03.24.45:966][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:966][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05.WaterDrips05 Referenced by WaterDrips7
+[2020.10.14-03.24.45:967][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:967][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:967][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05.WaterDrips05 Referenced by WaterDrips8_9
+[2020.10.14-03.24.45:968][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterDrips05': Can't find file.
+[2020.10.14-03.24.45:968][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:968][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04.Waterfall04 Referenced by Waterfall10
+[2020.10.14-03.24.45:969][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:969][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:969][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07.Waterfall07 Referenced by Waterfall12_76
+[2020.10.14-03.24.45:970][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall07': Can't find file.
+[2020.10.14-03.24.45:970][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:970][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06.Waterfall06 Referenced by Waterfall14_75
+[2020.10.14-03.24.45:971][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:971][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:971][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05.Waterfall05 Referenced by Waterfall15_92
+[2020.10.14-03.24.45:971][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall05': Can't find file.
+[2020.10.14-03.24.45:972][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:972][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06.Waterfall06 Referenced by Waterfall16_109
+[2020.10.14-03.24.45:972][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:973][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:973][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04.Waterfall04 Referenced by Waterfall18
+[2020.10.14-03.24.45:973][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04': Can't find file.
+[2020.10.14-03.24.45:974][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:974][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06.Waterfall06 Referenced by Waterfall8
+[2020.10.14-03.24.45:974][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall06': Can't find file.
+[2020.10.14-03.24.45:975][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.45:975][458]LoadErrors: Failed to load /Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03.WaterFountain03 Referenced by WaterFountain4
+[2020.10.14-03.24.45:975][458]LogLinker: Warning: While loading '../../../../../../Users/Strawberry/Documents/GitHub/GAM537-Assignments/Assignments/Content/SoulCave/Maps/LV_Soul_Cave.umap' failed to load '/Game/SoulCave/Sound/Wav/AmbientLooping/WaterFountain03': Can't find file.
+[2020.10.14-03.24.47:913][458]LogTexture: Display: Building textures: T_Soul_Statue_Body_N (BC5, 2048X2048)
+[2020.10.14-03.24.47:932][458]LogTexture: Display: Building textures: T_Slums_MetalTexture_N (BC5, 2048X2048)
+[2020.10.14-03.24.47:932][458]LogTexture: Display: Building textures: T_Slums_MetalTexture_M (AutoDXT, 2048X2048)
+[2020.10.14-03.24.47:932][458]LogTexture: Display: Building textures: T_Slums_Metal_Rust_03_N (BC5, 2048X2048)
+[2020.10.14-03.24.47:932][458]LogTexture: Display: Building textures: T_Slums_Metal_Rust_03_D (AutoDXT, 2048X2048)
+[2020.10.14-03.24.47:932][458]LogTexture: Display: Building textures: T_Slums_Wood_N (BC5, 2048X2048)
+[2020.10.14-03.24.47:932][458]LogTexture: Display: Building textures: T_Slums_Wood_D (AutoDXT, 2048X2048)
+[2020.10.14-03.24.47:932][458]LogTexture: Display: Building textures: T_Cave_Dirt_D (AutoDXT, 1024X1024)
+[2020.10.14-03.24.47:932][458]LogMaterial: Display: Missing cached shader map for material M_WaterDrop_SubUV, compiling. 
+[2020.10.14-03.24.48:696][458]LogTexture: Display: Building textures: T_Cave_Dirt_N (BC5, 1024X1024)
+[2020.10.14-03.24.48:696][458]LogTexture: Display: Building textures: T_Cave_Mud_D (AutoDXT, 1024X1024)
+[2020.10.14-03.24.48:696][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2020.10.14-03.24.48:696][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2020.10.14-03.24.48:696][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2020.10.14-03.24.48:697][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2020.10.14-03.24.48:697][458]LogTexture: Display: Building textures: T_Cave_Dirt_N (BC5, 1024X1024)
+[2020.10.14-03.24.48:697][458]LogTexture: Display: Building textures: T_Droplets_LitShaded_D (AutoDXT, 2048X2048)
+[2020.10.14-03.24.51:610][458]LogTexture: Display: Building textures: T_Soul_Skydome01_M (AutoDXT, 1024X256)
+[2020.10.14-03.24.51:610][458]LogTexture: Display: Building textures: T_Soul_Skydome01_D (AutoDXT, 4096X1024)
+[2020.10.14-03.24.51:610][458]LogTexture: Display: Building textures: T_Droplets_N (BC5, 2048X2048)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: T_Slums_Cloth_N (BC5, 1024X2048)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: T_Slums_Cloth_M (AutoDXT, 1024X2048)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: T_RainPuddleMask (AutoDXT, 256X256)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: T_Slums_TilingNOise_M (AutoDXT, 2048X2048)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: T_RainStreaming_N (BC5, 1024X1024)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 64X64)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 64X64)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 64X64)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 64X64)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.02:702][458]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.02:702][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Wood, compiling. 
+[2020.10.14-03.25.06:662][458]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 2048X2048)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 512X512)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 512X512)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 512X512)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 128X128)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 64X64)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 64X64)
+[2020.10.14-03.25.06:663][458]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.06:663][458]LogStaticMesh: Building static mesh SM_Slums_Distance_01b_OP...
+[2020.10.14-03.25.06:741][458]LogStaticMesh: Built static mesh [0.08s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Distance_01b_OP.SM_Slums_Distance_01b_OP
+[2020.10.14-03.25.06:808][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Cloth_, compiling. 
+[2020.10.14-03.25.07:307][458]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 4096X4096)
+[2020.10.14-03.25.07:307][458]LogTexture: Display: Building textures: T_EV_DustPanner_01 (AutoDXT, 256X256)
+[2020.10.14-03.25.09:743][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 181
+[2020.10.14-03.25.09:743][458]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 4096X4096)
+[2020.10.14-03.25.09:743][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 171
+[2020.10.14-03.25.09:743][458]LogTexture: Display: Building textures: T_SandStorm_Mask (AutoDXT, 512X512)
+[2020.10.14-03.25.10:405][458]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 2048X2048)
+[2020.10.14-03.25.10:405][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 161
+[2020.10.14-03.25.10:405][458]LogMaterial: Display: Missing cached shader map for material M_Fogsheet_cheap, compiling. 
+[2020.10.14-03.25.10:511][458]LogStaticMesh: Building static mesh SM_Cave_Rock_PillarBottom...
+[2020.10.14-03.25.10:727][458]LogStaticMesh: Built static mesh [0.22s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Rock_PillarBottom.SM_Cave_Rock_PillarBottom
+[2020.10.14-03.25.10:887][458]LogMaterial: Display: Missing cached shader map for material M_Wires02, compiling. 
+[2020.10.14-03.25.11:036][458]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 2048X2048)
+[2020.10.14-03.25.11:036][458]LogMaterial: Display: Missing cached shader map for material M_Sky, compiling. 
+[2020.10.14-03.25.11:127][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Statue_Cloth_WorldPositoin, compiling. 
+[2020.10.14-03.25.11:537][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Pillar03b...
+[2020.10.14-03.25.11:781][458]LogStaticMesh: Built static mesh [0.24s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Rock_Pillar03b.SM_Cave_Rock_Pillar03b
+[2020.10.14-03.25.11:827][458]LogStaticMesh: Building static mesh SM_GDC2012_Throne_Interior_Chain_05...
+[2020.10.14-03.25.11:842][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Building/SM_GDC2012_Throne_Interior_Chain_05.SM_GDC2012_Throne_Interior_Chain_05
+[2020.10.14-03.25.11:855][458]LogTexture: Display: Building textures: T_Water_shockwave_contrast_a_02 (AutoDXT, 256X256)
+[2020.10.14-03.25.12:091][458]LogTexture: Display: Building textures: T_WaterFoam_02 (AutoDXT, 1024X1024)
+[2020.10.14-03.25.26:264][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 405
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 2048X2048)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 4096X4096)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 64X64)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 64X64)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 64X64)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 64X64)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2020.10.14-03.25.26:274][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 395
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2020.10.14-03.25.26:274][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 385
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.10.14-03.25.26:274][458]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 2048X2048)
+[2020.10.14-03.25.26:274][458]LogMaterial: Display: Missing cached shader map for material M_SplashFoam, compiling. 
+[2020.10.14-03.25.26:633][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 489
+[2020.10.14-03.25.26:633][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Rock_MASTER_VertexPaint_Moss, compiling. 
+[2020.10.14-03.25.26:787][458]LogTexture: Display: Building textures: T_Cave_Rock_Large_M (AutoDXT, 1024X1024)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 1024X1024)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 1024X1024)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 512X512)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 512X512)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 512X512)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 128X128)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 64X64)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 64X64)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 4096X4096)
+[2020.10.14-03.25.31:314][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 510
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 4096X4096)
+[2020.10.14-03.25.31:314][458]LogTexture: Display: Building textures: T_Cave_Rock_Large02_N (BC5, 2048X2048)
+[2020.10.14-03.25.32:643][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Rock_MASTER_VertexPaint_Moss, compiling. 
+[2020.10.14-03.25.32:804][458]LogTexture: Display: Building textures: T_Cave_Dirt_D (AutoDXT, 1024X1024)
+[2020.10.14-03.25.36:720][458]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 2048X2048)
+[2020.10.14-03.25.36:720][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Rock_MASTER_VertexPaint_Dirt, compiling. 
+[2020.10.14-03.25.36:838][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Rock_MASTER_VertexPaint_Dirt, compiling. 
+[2020.10.14-03.25.36:968][458]LogTexture: Display: Building textures: T_Cave_Rock_Small_M (AutoDXT, 1024X1024)
+[2020.10.14-03.25.41:236][458]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 2048X2048)
+[2020.10.14-03.25.41:236][458]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 2048X2048)
+[2020.10.14-03.25.41:236][458]LogTexture: Display: Building textures: T_Cave_Rock_Small_N (BC5, 2048X2048)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 4096X4096)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 64X32)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 64X32)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 64X32)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 64X32)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 4096X2048)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 2048X1024)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 512X256)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 512X256)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 256X128)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 512X256)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 256X128)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 256X128)
+[2020.10.14-03.25.52:734][458]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 128X64)
+[2020.10.14-03.25.52:735][458]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 64X32)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 64X32)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 4096X2048)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 4096X2048)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 2048X1024)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 2048X1024)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 2048X1024)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 4096X2048)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (BGRA8, 2048X512)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (BGRA8, 4096X2048)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (BGRA8, 4096X1024)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (BGRA8, 512X512)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (BGRA8, 1024X512)
+[2020.10.14-03.25.52:751][458]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (BGRA8, 4096X512)
+[2020.10.14-03.25.52:752][458]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (BGRA8, 4096X512)
+[2020.10.14-03.25.52:752][458]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (BGRA8, 2048X512)
+[2020.10.14-03.25.52:752][458]LogDerivedDataCache: Warning: C:/Users/Strawberry/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Strawberry/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_17107BEE4078F7755__C1A5CAFBE7E4126EE682EDF70688B4D33C2669E6.udd, consider disabling it.
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (BGRA8, 4096X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (BGRA8, 4096X256)
+[2020.10.14-03.25.53:878][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 593
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (BGRA8, 1024X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (BGRA8, 2048X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (BGRA8, 1024X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (BGRA8, 4096X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (BGRA8, 4096X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (BGRA8, 1024X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (BGRA8, 1024X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 512X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (BGRA8, 512X128)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (BGRA8, 512X256)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (BGRA8, 128X128)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (BGRA8, 256X128)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 128X128)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 32X32)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 128X128)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (BGRA8, 64X32)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (BGRA8, 32X32)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (BGRA8, 32X32)
+[2020.10.14-03.25.53:878][458]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (BGRA8, 32X32)
+[2020.10.14-03.25.53:878][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 583
+[2020.10.14-03.25.53:879][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 573
+[2020.10.14-03.25.53:879][458]LogTexture: Display: Building textures: T_brownian_01_M (AutoDXT, 512X512)
+[2020.10.14-03.25.53:879][458]LogTexture: Display: Building textures: T_Cave_FlowMap_N (BC5, 1024X1024)
+[2020.10.14-03.25.53:879][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.25.53:879][458]LogTexture: Display: Building textures: T_Cave_Rock_Pillar_M (BC5, 1024X1024)
+[2020.10.14-03.25.53:879][458]LogTexture: Display: Building textures: T_SmokeBall_03_Perlin (AutoDXT, 1024X1024)
+[2020.10.14-03.25.53:879][458]LogTexture: Display: Building textures: T_Cave_Wood_Beam_N (BC5, 1024X512)
+[2020.10.14-03.25.53:879][458]LogTexture: Display: Building textures: T_Patina_Metal_D (AutoDXT, 2048X2048)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Soul_Leaves_D (AutoDXT, 1024X1024)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Soul_Leaves_N (BC5, 1024X1024)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Cave_Mud_N (BC5, 1024X1024)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Cave_Statue_Torso_M (AutoDXT, 1024X1024)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Soul_Staue_N (BC5, 2048X2048)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Slums_PipeTexture_01b_N (BC5, 1024X2048)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Slums_PipeTexture_01b_M (AutoDXT, 1024X2048)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Cave_Statue_Torso_N (BC5, 2048X2048)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Cave_Rock_Pillar_N (BC5, 2048X2048)
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Slums_TilingMetal_D (AutoDXT, 2048X2048)
+[2020.10.14-03.26.10:065][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 563
+[2020.10.14-03.26.10:065][458]LogTexture: Display: Building textures: T_Soul_Statue_Body_D (AutoDXT, 2048X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_Slums_TilingMetal_n (BC5, 2048X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_Slums_Window_N (BC5, 1024X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_LeafFlip_6X6_01_D (AutoDXT, 1024X1024)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_Slums_Trashcan_N (BC5, 2048X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_Slums_TinRoof_D (AutoDXT, 2048X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_Slums_TinRoof_N (BC5, 2048X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_Slums_Window_D (AutoDXT, 1024X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_Slums_Window_M (AutoDXT, 256X512)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_SmokeSubUV_8X8_02 (AutoDXT, 2048X2048)
+[2020.10.14-03.26.10:066][458]LogTexture: Display: Building textures: T_TilingNoise03 (AutoDXT, 2048X2048)
+[2020.10.14-03.26.10:066][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Metalwork, compiling. 
+[2020.10.14-03.26.10:113][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Metalwork, compiling. 
+[2020.10.14-03.26.10:159][458]LogMaterial: Display: Missing cached shader map for material M_Dust_Mote, compiling. 
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Spark_Bits_2X2_M (AutoDXT, 1024X1024)
+[2020.10.14-03.26.18:739][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 729
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Slums_PipeTexture_01_N (BC5, 2048X2048)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Slums_PipeTexture_01_M (AutoDXT, 2048X2048)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_SmokeBall_01_8_8_D (AutoDXT, 1024X1024)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Clouds_01_M (AutoDXT, 1024X1024)
+[2020.10.14-03.26.18:739][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 719
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Soul_Statue_M (AutoDXT, 1024X1024)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_VINETEXTURE_N (BC5, 1024X1024)
+[2020.10.14-03.26.18:739][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 709
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_VINETEXTURE_D (AutoDXT, 1024X1024)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Slums_Wall_D (AutoDXT, 2048X2048)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Slums_Wall_N (BC5, 2048X2048)
+[2020.10.14-03.26.18:739][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 699
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_SparkSingle_M (AutoDXT, 128X1024)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: T_Paper_Sheet (AutoDXT, 128X128)
+[2020.10.14-03.26.18:739][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.26.18:739][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Tin, compiling. 
+[2020.10.14-03.26.18:837][458]LogTexture: Display: Building textures: T_Flare_04 (BGRA8, 1024X1024)
+[2020.10.14-03.26.18:837][458]LogTexture: Display: Building textures: T_Flare_02_M (BGRA8, 1024X1024)
+[2020.10.14-03.26.18:837][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Ground_MASTER, compiling. 
+[2020.10.14-03.26.18:942][458]LogTexture: Display: Building textures: T_GodRay_Mask02_N (AutoDXT, 512X1024)
+[2020.10.14-03.26.18:942][458]LogStaticMesh: Building static mesh SM_Cave_Water_Plane_1000_Cut...
+[2020.10.14-03.26.18:962][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Water/SM_Cave_Water_Plane_1000_Cut.SM_Cave_Water_Plane_1000_Cut
+[2020.10.14-03.26.22:557][458]LogTexture: Display: Building textures: T_Soul_Trees_D (AutoDXT, 2048X2048)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_Soul_Trees_N (BC5, 2048X2048)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_SparkCore_2X2_M (G8, 2048X2048)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_Smoke_Tile_01 (AutoDXT, 1024X1024)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_DropSubUV_M (AutoDXT, 512X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_WaterDroplets_N (AutoDXT, 512X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_WaterDroplets_M (AutoDXT, 512X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_AccessTunnel_Cube (RGBA16F, 2048X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_Cave_Bricks_M (AutoDXT, 1024X1024)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_Cave_Bricks_N (BC5, 1024X1024)
+[2020.10.14-03.26.22:558][458]LogTexture: Display: Building textures: T_Cave_E (AutoDXT, 2048X2048)
+[2020.10.14-03.26.22:559][458]LogTexture: Display: Building textures: T_SM_Cave_Arch_N (BC5, 2048X2048)
+[2020.10.14-03.26.22:559][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 751
+[2020.10.14-03.26.22:559][458]LogStaticMesh: Building static mesh SM_Unified_25_Opt...
+[2020.10.14-03.26.22:614][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 741
+[2020.10.14-03.26.22:614][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Unified/SM_Unified_25_Opt.SM_Unified_25_Opt
+[2020.10.14-03.26.22:790][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Water_JM2, compiling. 
+[2020.10.14-03.26.23:008][458]LogTexture: Display: Building textures: T_LV_SoulDistanceBD02_D (AutoDXT, 1024X1024)
+[2020.10.14-03.26.23:008][458]LogStaticMesh: Building static mesh SM_S_Soul_waterfall2...
+[2020.10.14-03.26.23:041][458]LogTexture: Display: Building textures: T_Cave_Pillar_N (BC5, 2048X2048)
+[2020.10.14-03.26.23:041][458]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCave/Environment/Meshes/Water/SM_S_Soul_waterfall2.SM_S_Soul_waterfall2
+[2020.10.14-03.26.23:091][458]LogStaticMesh: Building static mesh SM_S_Soul_Waterfall1...
+[2020.10.14-03.26.23:111][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Water/SM_S_Soul_Waterfall1.SM_S_Soul_Waterfall1
+[2020.10.14-03.26.23:138][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Waterfall_Foam02, compiling. 
+[2020.10.14-03.26.23:226][458]LogMaterial: Display: Missing cached shader map for material M_Water_Translucent, compiling. 
+[2020.10.14-03.26.29:473][458]LogTexture: Display: Building textures: T_Cave_Spotlight_N (BC5, 2048X2048)
+[2020.10.14-03.26.29:473][458]LogTexture: Display: Building textures: T_Cave_Floor_N (BC5, 2048X2048)
+[2020.10.14-03.26.29:474][458]LogTexture: Display: Building textures: T_Soul_GlowStick_N (BC5, 1024X1024)
+[2020.10.14-03.26.29:474][458]LogTexture: Display: Building textures: T_Soul_Glowstick_D (AutoDXT, 1024X1024)
+[2020.10.14-03.26.29:474][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 897
+[2020.10.14-03.26.29:474][458]LogTexture: Display: Building textures: T_LV_Soul_OutColor_G01_D (BGRA8, 256X16)
+[2020.10.14-03.26.29:474][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Cloth_Anim, compiling. 
+[2020.10.14-03.26.29:750][458]LogStaticMesh: Building static mesh SM_SimpleFogSheet...
+[2020.10.14-03.26.29:751][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/EffectsMobile/SimpleFogSheet/Mesh/SM_SimpleFogSheet.SM_SimpleFogSheet
+[2020.10.14-03.26.29:778][458]LogMaterial: Display: Missing cached shader map for material M_Smoke_MacroUV_Subtle_Emissive_Near, compiling. 
+[2020.10.14-03.26.29:881][458]LogStaticMesh: Building static mesh SM_leaf...
+[2020.10.14-03.26.29:881][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/EffectsMobile/Trash/Meshes/SM_leaf.SM_leaf
+[2020.10.14-03.26.29:894][458]LogMaterial: Display: Missing cached shader map for material M_NewMaterial, compiling. 
+[2020.10.14-03.26.29:944][458]LogMaterial: Display: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2020.10.14-03.26.39:220][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1155
+[2020.10.14-03.26.39:220][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1145
+[2020.10.14-03.26.39:220][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1135
+[2020.10.14-03.26.39:220][458]LogMaterial: Display: Missing cached shader map for material M_ParticleWater_MASTER, compiling. 
+[2020.10.14-03.26.39:361][458]LogMaterial: Display: Missing cached shader map for material M_Flare_Master, compiling. 
+[2020.10.14-03.26.39:417][458]LogMaterial: Display: Missing cached shader map for material M_Smoke_MacroUV_Subtle_Near, compiling. 
+[2020.10.14-03.26.39:474][458]LogMaterial: Display: Missing cached shader map for material M_Spark_Core_Master, compiling. 
+[2020.10.14-03.26.39:535][458]LogMaterial: Display: Missing cached shader map for material M_Single_Master, compiling. 
+[2020.10.14-03.26.39:653][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1407
+[2020.10.14-03.26.39:653][458]LogStaticMesh: Building static mesh SM_GDC2012_Throne_Interior_Chain_04_Holder...
+[2020.10.14-03.26.39:664][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building/SM_GDC2012_Throne_Interior_Chain_04_Holder.SM_GDC2012_Throne_Interior_Chain_04_Holder
+[2020.10.14-03.26.39:704][458]LogStaticMesh: Building static mesh SM_glowstick02...
+[2020.10.14-03.26.39:720][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_glowstick02.SM_glowstick02
+[2020.10.14-03.26.39:727][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1468
+[2020.10.14-03.26.39:728][458]LogStaticMesh: Building static mesh SM_LV_Soul_Slum_signpost...
+[2020.10.14-03.26.39:729][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_LV_Soul_Slum_signpost.SM_LV_Soul_Slum_signpost
+[2020.10.14-03.26.39:759][458]LogStaticMesh: Building static mesh SM_RockRamp_Curved_01...
+[2020.10.14-03.26.39:814][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/Rocks/SM_RockRamp_Curved_01.SM_RockRamp_Curved_01
+[2020.10.14-03.26.39:913][458]LogStaticMesh: Building static mesh SM_RockRamp_Straight_01...
+[2020.10.14-03.26.39:974][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/Rocks/SM_RockRamp_Straight_01.SM_RockRamp_Straight_01
+[2020.10.14-03.26.40:056][458]LogStaticMesh: Building static mesh SM_S_Soul_bush...
+[2020.10.14-03.26.40:491][458]LogStaticMesh: Built static mesh [0.44s] /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_bush.SM_S_Soul_bush
+[2020.10.14-03.26.40:521][458]LogStaticMesh: Building static mesh SM_Cave_Tree01...
+[2020.10.14-03.26.40:560][458]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/Environment/Meshes/Nature/SM_Cave_Tree01.SM_Cave_Tree01
+[2020.10.14-03.26.40:567][458]LogStaticMesh: Building static mesh SM_S_Soul_Fog...
+[2020.10.14-03.26.40:568][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Fog.SM_S_Soul_Fog
+[2020.10.14-03.26.40:575][458]LogStaticMesh: Building static mesh SM_S_Soul_GodRay...
+[2020.10.14-03.26.40:581][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_GodRay.SM_S_Soul_GodRay
+[2020.10.14-03.26.40:587][458]LogStaticMesh: Building static mesh SM_S_Soul_leaves2...
+[2020.10.14-03.26.40:589][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_leaves2.SM_S_Soul_leaves2
+[2020.10.14-03.26.40:617][458]LogStaticMesh: Building static mesh SM_S_Soul_Leaves1...
+[2020.10.14-03.26.40:631][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Leaves1.SM_S_Soul_Leaves1
+[2020.10.14-03.26.40:811][458]LogStaticMesh: Building static mesh SM_S_Soul_Tree3...
+[2020.10.14-03.26.41:018][458]LogStaticMesh: Built static mesh [0.21s] /Game/SoulCave/Environment/Meshes/Nature/SM_S_Soul_Tree3.SM_S_Soul_Tree3
+[2020.10.14-03.26.41:374][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1458
+[2020.10.14-03.26.41:374][458]LogStaticMesh: Building static mesh SM_S_Soul_Statue...
+[2020.10.14-03.26.42:354][458]LogStaticMesh: Built static mesh [0.98s] /Game/SoulCave/Environment/Meshes/Building/SM_S_Soul_Statue.SM_S_Soul_Statue
+[2020.10.14-03.26.42:393][458]LogStaticMesh: Building static mesh SM_slum_handrails_handrails_10...
+[2020.10.14-03.26.42:453][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/NewNavi/Handrails/SM_slum_handrails_handrails_10.SM_slum_handrails_handrails_10
+[2020.10.14-03.26.42:480][458]LogStaticMesh: Building static mesh SM_slum_handrails_handrails_12...
+[2020.10.14-03.26.42:587][458]LogStaticMesh: Built static mesh [0.11s] /Game/SoulCave/Environment/Meshes/NewNavi/Handrails/SM_slum_handrails_handrails_12.SM_slum_handrails_handrails_12
+[2020.10.14-03.26.42:601][458]LogStaticMesh: Building static mesh SM_slum_roads_stair_38...
+[2020.10.14-03.26.42:613][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_38.SM_slum_roads_stair_38
+[2020.10.14-03.26.42:620][458]LogStaticMesh: Building static mesh SM_slum_roads_stair_39...
+[2020.10.14-03.26.42:675][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_39.SM_slum_roads_stair_39
+[2020.10.14-03.26.42:688][458]LogStaticMesh: Building static mesh SM_slum_roads_stair_42...
+[2020.10.14-03.26.42:791][458]LogStaticMesh: Built static mesh [0.10s] /Game/SoulCave/Environment/Meshes/NewNavi/Roads/SM_slum_roads_stair_42.SM_slum_roads_stair_42
+[2020.10.14-03.26.42:798][458]LogStaticMesh: Building static mesh SM_slum_stairs_slumStairs_03...
+[2020.10.14-03.26.42:818][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/NewNavi/Stairs/SM_slum_stairs_slumStairs_03.SM_slum_stairs_slumStairs_03
+[2020.10.14-03.26.42:821][458]LogStaticMesh: Building static mesh SM_slum_stairs_slumStairs_00...
+[2020.10.14-03.26.42:822][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/NewNavi/Stairs/SM_slum_stairs_slumStairs_00.SM_slum_stairs_slumStairs_00
+[2020.10.14-03.26.42:853][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Pillar01REDO...
+[2020.10.14-03.26.42:952][458]LogStaticMesh: Built static mesh [0.10s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Rock_Pillar01REDO.SM_Cave_Rock_Pillar01REDO
+[2020.10.14-03.26.43:002][458]LogStaticMesh: Building static mesh SM_Cave_Brick_01b2...
+[2020.10.14-03.26.43:058][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_01b2.SM_Cave_Brick_01b2
+[2020.10.14-03.26.43:092][458]LogStaticMesh: Building static mesh SM_Cave_Brick_01a2...
+[2020.10.14-03.26.43:150][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_01a2.SM_Cave_Brick_01a2
+[2020.10.14-03.26.43:179][458]LogStaticMesh: Building static mesh SM_Cave_Brick_01d2...
+[2020.10.14-03.26.43:228][458]LogStaticMesh: Built static mesh [0.05s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_01d2.SM_Cave_Brick_01d2
+[2020.10.14-03.26.43:263][458]LogStaticMesh: Building static mesh SM_Cave_Brick_01b...
+[2020.10.14-03.26.43:274][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_01b.SM_Cave_Brick_01b
+[2020.10.14-03.26.43:303][458]LogStaticMesh: Building static mesh SM_Cave_Brick_01e...
+[2020.10.14-03.26.43:355][458]LogStaticMesh: Built static mesh [0.05s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_01e.SM_Cave_Brick_01e
+[2020.10.14-03.26.43:393][458]LogStaticMesh: Building static mesh SM_Cave_Brick_01a...
+[2020.10.14-03.26.43:406][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1448
+[2020.10.14-03.26.43:407][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_01a.SM_Cave_Brick_01a
+[2020.10.14-03.26.43:456][458]LogStaticMesh: Building static mesh SM_Cave_Brick_01c...
+[2020.10.14-03.26.43:466][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_01c.SM_Cave_Brick_01c
+[2020.10.14-03.26.43:538][458]LogStaticMesh: Building static mesh SM_Cave_Brick_Pile02...
+[2020.10.14-03.26.43:704][458]LogStaticMesh: Built static mesh [0.17s] /Game/SoulCave/Environment/Meshes/Bricks/SM_Cave_Brick_Pile02.SM_Cave_Brick_Pile02
+[2020.10.14-03.26.43:774][458]LogStaticMesh: Building static mesh SM_Cave_Chain_02...
+[2020.10.14-03.26.44:193][458]LogStaticMesh: Built static mesh [0.43s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Chain_02.SM_Cave_Chain_02
+[2020.10.14-03.26.44:210][458]LogStaticMesh: Building static mesh SM_Cave_Floor_Plane_100_10...
+[2020.10.14-03.26.44:216][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Nature/SM_Cave_Floor_Plane_100_10.SM_Cave_Floor_Plane_100_10
+[2020.10.14-03.26.44:330][458]LogStaticMesh: Building static mesh SM_Cave_Pillars_NoFlag...
+[2020.10.14-03.26.45:043][458]LogStaticMesh: Built static mesh [0.71s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Pillars_NoFlag.SM_Cave_Pillars_NoFlag
+[2020.10.14-03.26.45:233][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1438
+[2020.10.14-03.26.45:233][458]LogStaticMesh: Building static mesh SM_Cave_Arches...
+[2020.10.14-03.26.46:346][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1428
+[2020.10.14-03.26.46:346][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1418
+[2020.10.14-03.26.46:346][458]LogStaticMesh: Built static mesh [1.11s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Arches.SM_Cave_Arches
+[2020.10.14-03.26.46:404][458]LogStaticMesh: Building static mesh SM_Cave_Floor_Stairs_Quarter...
+[2020.10.14-03.26.46:605][458]LogStaticMesh: Built static mesh [0.20s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Floor_Stairs_Quarter.SM_Cave_Floor_Stairs_Quarter
+[2020.10.14-03.26.46:625][458]LogStaticMesh: Building static mesh SM_Cave_Leaf_Pile01...
+[2020.10.14-03.26.46:639][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Nature/SM_Cave_Leaf_Pile01.SM_Cave_Leaf_Pile01
+[2020.10.14-03.26.46:645][458]LogStaticMesh: Building static mesh SM_Cave_Leaf_Pile02...
+[2020.10.14-03.26.46:651][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Nature/SM_Cave_Leaf_Pile02.SM_Cave_Leaf_Pile02
+[2020.10.14-03.26.46:974][458]LogStaticMesh: Building static mesh SM_Cave_Leaf_Pile_Combined01...
+[2020.10.14-03.26.47:260][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1408
+[2020.10.14-03.26.47:260][458]LogStaticMesh: Built static mesh [0.29s] /Game/SoulCave/Environment/Meshes/Nature/SM_Cave_Leaf_Pile_Combined01.SM_Cave_Leaf_Pile_Combined01
+[2020.10.14-03.26.47:346][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Ceiling...
+[2020.10.14-03.26.47:358][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Ceiling.SM_Cave_Rock_Ceiling
+[2020.10.14-03.26.47:395][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Large01_REDO...
+[2020.10.14-03.26.47:472][458]LogStaticMesh: Built static mesh [0.08s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Large01_REDO.SM_Cave_Rock_Large01_REDO
+[2020.10.14-03.26.47:510][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Flat01...
+[2020.10.14-03.26.47:548][458]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Flat01.SM_Cave_Rock_Flat01
+[2020.10.14-03.26.47:640][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Large02...
+[2020.10.14-03.26.47:768][458]LogStaticMesh: Built static mesh [0.13s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Large02.SM_Cave_Rock_Large02
+[2020.10.14-03.26.47:867][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Path_Single...
+[2020.10.14-03.26.47:931][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Path_Single.SM_Cave_Rock_Path_Single
+[2020.10.14-03.26.48:056][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Small02...
+[2020.10.14-03.26.48:060][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Small02.SM_Cave_Rock_Small02
+[2020.10.14-03.26.48:086][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Medium01...
+[2020.10.14-03.26.48:123][458]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Medium01.SM_Cave_Rock_Medium01
+[2020.10.14-03.26.48:261][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Pillar_Broken01a...
+[2020.10.14-03.26.48:292][458]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Rock_Pillar_Broken01a.SM_Cave_Rock_Pillar_Broken01a
+[2020.10.14-03.26.48:314][458]LogStaticMesh: Building static mesh SM_Cave_Rock_PillarBroken01b...
+[2020.10.14-03.26.48:327][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Rock_PillarBroken01b.SM_Cave_Rock_PillarBroken01b
+[2020.10.14-03.26.48:353][458]LogStaticMesh: Building static mesh SM_Cave_Rock_PillarTop...
+[2020.10.14-03.26.48:398][458]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Rock_PillarTop.SM_Cave_Rock_PillarTop
+[2020.10.14-03.26.48:411][458]LogStaticMesh: Building static mesh SM_Cave_Rock_Small01...
+[2020.10.14-03.26.48:415][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rock_Small01.SM_Cave_Rock_Small01
+[2020.10.14-03.26.48:431][458]LogStaticMesh: Building static mesh SM_Cave_Rocks_Stalactite_04...
+[2020.10.14-03.26.48:436][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_04.SM_Cave_Rocks_Stalactite_04
+[2020.10.14-03.26.48:454][458]LogStaticMesh: Building static mesh SM_Cave_Rocks_Stalactite_05...
+[2020.10.14-03.26.48:461][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_Rocks_Stalactite_05.SM_Cave_Rocks_Stalactite_05
+[2020.10.14-03.26.48:518][458]LogStaticMesh: Building static mesh SM_Cave_Roots01...
+[2020.10.14-03.26.48:713][458]LogStaticMesh: Built static mesh [0.20s] /Game/SoulCave/Environment/Meshes/Nature/SM_Cave_Roots01.SM_Cave_Roots01
+[2020.10.14-03.26.48:755][458]LogStaticMesh: Building static mesh SM_Cave_Roots02...
+[2020.10.14-03.26.48:812][458]LogStaticMesh: Built static mesh [0.06s] /Game/SoulCave/Environment/Meshes/Nature/SM_Cave_Roots02.SM_Cave_Roots02
+[2020.10.14-03.26.48:859][458]LogStaticMesh: Building static mesh SM_Cave_Statue_Torso...
+[2020.10.14-03.26.48:884][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Statue_Torso.SM_Cave_Statue_Torso
+[2020.10.14-03.26.48:935][458]LogStaticMesh: Building static mesh SM_Cave_StoneCluster01_COMBINED...
+[2020.10.14-03.26.49:268][458]LogStaticMesh: Built static mesh [0.33s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_StoneCluster01_COMBINED.SM_Cave_StoneCluster01_COMBINED
+[2020.10.14-03.26.49:372][458]LogStaticMesh: Building static mesh SM_Cave_StoneCluster02_COMBINEDa...
+[2020.10.14-03.26.49:777][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1398
+[2020.10.14-03.26.49:777][458]LogStaticMesh: Built static mesh [0.40s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_StoneCluster02_COMBINEDa.SM_Cave_StoneCluster02_COMBINEDa
+[2020.10.14-03.26.49:892][458]LogStaticMesh: Building static mesh SM_Cave_StoneCluster02_COMBINEDb...
+[2020.10.14-03.26.49:977][458]LogStaticMesh: Built static mesh [0.09s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_StoneCluster02_COMBINEDb.SM_Cave_StoneCluster02_COMBINEDb
+[2020.10.14-03.26.50:018][458]LogStaticMesh: Building static mesh SM_Cave_StoneCluster03...
+[2020.10.14-03.26.50:136][458]LogStaticMesh: Built static mesh [0.12s] /Game/SoulCave/Environment/Meshes/Rocks/SM_Cave_StoneCluster03.SM_Cave_StoneCluster03
+[2020.10.14-03.26.50:154][458]LogStaticMesh: Building static mesh SM_Cave_Waterfall_01...
+[2020.10.14-03.26.50:160][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/EffectsMobile/Water/Meshes/SM_Cave_Waterfall_01.SM_Cave_Waterfall_01
+[2020.10.14-03.26.50:175][458]LogStaticMesh: Building static mesh SM_Cave_Waterfall_02...
+[2020.10.14-03.26.50:184][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/EffectsMobile/Water/Meshes/SM_Cave_Waterfall_02.SM_Cave_Waterfall_02
+[2020.10.14-03.26.50:198][458]LogStaticMesh: Building static mesh SM_Cave_Wood_Beam...
+[2020.10.14-03.26.50:229][458]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCave/Environment/Meshes/Building/SM_Cave_Wood_Beam.SM_Cave_Wood_Beam
+[2020.10.14-03.26.50:257][458]LogStaticMesh: Building static mesh SM_Flow_01...
+[2020.10.14-03.26.50:297][458]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/EffectsMobile/Water/Meshes/SM_Flow_01.SM_Flow_01
+[2020.10.14-03.26.50:312][458]LogStaticMesh: Building static mesh SM_Flow_Ripples_01_vpainted...
+[2020.10.14-03.26.50:319][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/EffectsMobile/Water/Meshes/SM_Flow_Ripples_01_vpainted.SM_Flow_Ripples_01_vpainted
+[2020.10.14-03.26.50:392][458]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rock_Path_Single_6...
+[2020.10.14-03.26.50:587][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1388
+[2020.10.14-03.26.50:587][458]LogStaticMesh: Built static mesh [0.20s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rock_Path_Single_6.SM_MergedMesh_Cave_Rock_Path_Single_6
+[2020.10.14-03.26.50:827][458]LogStaticMesh: Building static mesh SM_MergedMesh_Cave_Rocks_Stalactite_01_7...
+[2020.10.14-03.26.51:795][458]LogStaticMesh: Built static mesh [0.97s] /Game/SoulCave/Environment/Meshes/Merged/SM_MergedMesh_Cave_Rocks_Stalactite_01_7.SM_MergedMesh_Cave_Rocks_Stalactite_01_7
+[2020.10.14-03.26.51:849][458]LogStaticMesh: Building static mesh SM_Ripple_Wide...
+[2020.10.14-03.26.51:851][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/EffectsMobile/Water/Meshes/SM_Ripple_Wide.SM_Ripple_Wide
+[2020.10.14-03.26.51:956][458]LogStaticMesh: Building static mesh SM_Slums_Cloth_01b...
+[2020.10.14-03.26.51:962][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Cloth_01b.SM_Slums_Cloth_01b
+[2020.10.14-03.26.52:000][458]LogStaticMesh: Building static mesh SM_Slums_Distance_03a_OP...
+[2020.10.14-03.26.52:016][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Distance_03a_OP.SM_Slums_Distance_03a_OP
+[2020.10.14-03.26.52:024][458]LogStaticMesh: Building static mesh SM_Slums_Wall_02k...
+[2020.10.14-03.26.52:024][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Wall_02k.SM_Slums_Wall_02k
+[2020.10.14-03.26.52:085][458]LogStaticMesh: Building static mesh SM_Slums_Pipe_04b...
+[2020.10.14-03.26.52:239][458]LogStaticMesh: Built static mesh [0.15s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Pipe_04b.SM_Slums_Pipe_04b
+[2020.10.14-03.26.52:259][458]LogStaticMesh: Building static mesh SM_Slums_Wires_01a_OP0...
+[2020.10.14-03.26.52:265][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Wires_01a_OP0.SM_Slums_Wires_01a_OP0
+[2020.10.14-03.26.52:275][458]LogStaticMesh: Building static mesh SM_Slums_Trash_01a...
+[2020.10.14-03.26.52:281][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Trash_01a.SM_Slums_Trash_01a
+[2020.10.14-03.26.52:298][458]LogStaticMesh: Building static mesh SM_Slums_Trash_02a...
+[2020.10.14-03.26.52:335][458]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Trash_02a.SM_Slums_Trash_02a
+[2020.10.14-03.26.52:353][458]LogStaticMesh: Building static mesh SM_Slums_Trashbag...
+[2020.10.14-03.26.52:389][458]LogStaticMesh: Built static mesh [0.04s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Trashbag.SM_Slums_Trashbag
+[2020.10.14-03.26.52:427][458]LogStaticMesh: Building static mesh SM_Slums_Wall_01h...
+[2020.10.14-03.26.52:517][458]LogStaticMesh: Built static mesh [0.09s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Wall_01h.SM_Slums_Wall_01h
+[2020.10.14-03.26.52:524][458]LogStaticMesh: Building static mesh SM_Slums_Wall_02l...
+[2020.10.14-03.26.52:526][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Wall_02l.SM_Slums_Wall_02l
+[2020.10.14-03.26.52:532][458]LogStaticMesh: Building static mesh SM_Slums_Wall_02h...
+[2020.10.14-03.26.52:535][458]LogStaticMesh: Built static mesh [0.00s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Wall_02h.SM_Slums_Wall_02h
+[2020.10.14-03.26.52:559][458]LogStaticMesh: Building static mesh SM_Slums_Wires_02c...
+[2020.10.14-03.26.52:570][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_Wires_02c.SM_Slums_Wires_02c
+[2020.10.14-03.26.52:642][458]LogStaticMesh: Building static mesh SM_Slums_WoodWall_01a...
+[2020.10.14-03.26.52:671][458]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_WoodWall_01a.SM_Slums_WoodWall_01a
+[2020.10.14-03.26.52:721][458]LogStaticMesh: Building static mesh SM_Slums_WoodWall_01e...
+[2020.10.14-03.26.52:747][458]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_WoodWall_01e.SM_Slums_WoodWall_01e
+[2020.10.14-03.26.52:778][458]LogStaticMesh: Building static mesh SM_Slums_WoodWall_01e_OP...
+[2020.10.14-03.26.52:791][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_WoodWall_01e_OP.SM_Slums_WoodWall_01e_OP
+[2020.10.14-03.26.52:814][458]LogStaticMesh: Building static mesh SM_Slums_WoodWall_01f_OP...
+[2020.10.14-03.26.52:822][458]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_WoodWall_01f_OP.SM_Slums_WoodWall_01f_OP
+[2020.10.14-03.26.52:833][458]LogStaticMesh: Building static mesh SM_Slums_WoodWall_02b...
+[2020.10.14-03.26.52:856][458]LogStaticMesh: Built static mesh [0.02s] /Game/SoulCave/Environment/Meshes/Building_Slum/SM_Slums_WoodWall_02b.SM_Slums_WoodWall_02b
+[2020.10.14-03.26.52:893][458]LogStaticMesh: Building static mesh SM_Statue_Crumble_RK...
+[2020.10.14-03.26.52:924][458]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCave/Environment/Meshes/Building/SM_Statue_Crumble_RK.SM_Statue_Crumble_RK
+[2020.10.14-03.26.53:072][458]LogMaterial: Display: Missing cached shader map for material M_RippleFoam, compiling. 
+[2020.10.14-03.26.53:216][458]LogMaterial: Display: Missing cached shader map for material M_GodRay, compiling. 
+[2020.10.14-03.26.53:258][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Statue_Bolts, compiling. 
+[2020.10.14-03.26.53:456][458]LogTexture: Display: Building textures: T_Cave_Wood_Beam_D (AutoDXT, 1024X512)
+[2020.10.14-03.26.54:027][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1631
+[2020.10.14-03.26.54:027][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1621
+[2020.10.14-03.26.54:027][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Wood_Beam, compiling. 
+[2020.10.14-03.26.54:073][458]LogMaterial: Display: Missing cached shader map for material M_Cave_LeafPiles, compiling. 
+[2020.10.14-03.26.54:141][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Leaves, compiling. 
+[2020.10.14-03.26.54:202][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1700
+[2020.10.14-03.26.54:202][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Leaves, compiling. 
+[2020.10.14-03.26.54:261][458]LogMaterial: Display: Missing cached shader map for material M_Glow, compiling. 
+[2020.10.14-03.26.54:341][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Rock_MASTER, compiling. 
+[2020.10.14-03.26.54:396][458]LogMaterial: Display: Missing cached shader map for material M_Slums_2, compiling. 
+[2020.10.14-03.26.54:447][458]LogMaterial: Display: Missing cached shader map for material M_Slums_2, compiling. 
+[2020.10.14-03.26.54:504][458]LogMaterial: Display: Missing cached shader map for material M_Cave_Rock_MASTER_VertexPaint_Moss, compiling. 
+[2020.10.14-03.26.54:559][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Statue_Cloth, compiling. 
+[2020.10.14-03.26.54:669][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Statue_Chrome, compiling. 
+[2020.10.14-03.26.54:794][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Concrete, compiling. 
+[2020.10.14-03.26.54:864][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Concrete, compiling. 
+[2020.10.14-03.26.54:942][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Window2, compiling. 
+[2020.10.14-03.26.54:987][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Window2, compiling. 
+[2020.10.14-03.26.55:036][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Waterfall_Foam_Mask, compiling. 
+[2020.10.14-03.26.55:104][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Bush, compiling. 
+[2020.10.14-03.26.55:155][458]LogMaterial: Display: Missing cached shader map for material M_Slums_Concrete, compiling. 
+[2020.10.14-03.26.55:212][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Statue2, compiling. 
+[2020.10.14-03.26.55:262][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Fog2_MASTER, compiling. 
+[2020.10.14-03.26.55:334][458]LogMaterial: Display: Missing cached shader map for material M_Soul_TreeDead, compiling. 
+[2020.10.14-03.26.55:379][458]LogMaterial: Display: Missing cached shader map for material M_Soul_GODRAY_MASTER2, compiling. 
+[2020.10.14-03.26.55:405][458]LogMaterial: Display: Missing cached shader map for material M_paper, compiling. 
+[2020.10.14-03.26.55:447][458]LogMaterial: Display: Missing cached shader map for material M_Soul_Statue_Face, compiling. 
+[2020.10.14-03.26.56:044][458]LogTexture: Display: Building textures: T_Slums_Trashcan_D (AutoDXT, 2048X2048)
+[2020.10.14-03.26.59:715][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2761
+[2020.10.14-03.26.59:715][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2751
+[2020.10.14-03.26.59:715][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2741
+[2020.10.14-03.26.59:715][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2731
+[2020.10.14-03.26.59:715][458]LogMaterial: Display: Missing cached shader map for material M_Trashcan, compiling. 
